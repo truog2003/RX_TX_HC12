@@ -91,7 +91,7 @@
 
 /****************************************************************/
 
-void song2() { //Musica, Sweet Chield of Mine
+void song2() { //Musica sucesso, Sweet Chield of Mine
 
   digitalWrite(buzzer, HIGH);
 

@@ -1,5 +1,3 @@
-//https://www.youtube.com/watch?v=L_9IFxVTOpg
-
 #define   note_C0   16          //C0
 #define   note_Db0   17         //C#0/Db0
 #define   note_D0   18          //D0
